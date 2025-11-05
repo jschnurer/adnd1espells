@@ -117,13 +117,17 @@ function renderSpellDetails(spell: ISpell) {
     <div className="spell-details">
       <h2>{spell.name}{spell.reversible ? "*" : ""}</h2>
       {spell.reversible && <p><i>* Reversible Spell</i></p>}
+
       <p><b>Level:</b> {spell.classLevels[0].level}</p>
       <p><b>School:</b> {spell.school}</p>
+      <p><b>Components:</b> {spell.components.join(", ")}</p>
       <p><b>Casting Time:</b> {spell.castingTime}</p>
       <p><b>Range:</b> {spell.range}</p>
-      <p><b>Components:</b> {spell.components.join(", ")}</p>
       <p><b>Duration:</b> {spell.duration}</p>
+      <p><b>Area of Effect:</b> {spell.areaOfEffect}</p>
+
       <hr />
+
       <div style={{ whiteSpace: "pre-wrap" }}>
         {spell.description.map((desc, dix) => {
           if (typeof desc === "string") {
