@@ -1,0 +1,101 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.spell-list {
+  text-align: left;
+  width: 20rem;
+  margin: 0 auto;
+  border-right: 1px solid #444;
+  border-left: 1px solid #444;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.clickable-spell {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.clickable-spell:hover {
+  color: #61dafb;
+}
+
+.spell-popup-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.spell-popup-content {
+  background-color: #222;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 600px;
+  width: 90%;
+  position: fixed;
+  text-align: left;
+  max-height: 90%;
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+}
+
+.spell-popup-footer {
+  margin-top: 1rem;
+  text-align: right;
+  font-size: 0.9rem;
+  color: #aaa;
+}
+
+.spell-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0em;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.spell-details hr {
+  margin: 1rem 0;
+  border: none;
+  border-top: 1px solid #444;
+}
+
+.spell-details p {
+  margin: 0;
+}
+
+.spell-details table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.spell-details table th, .spell-details table td {
+  border: 1px solid #444;
+  padding: 0.2rem;
+  text-align: left;
+}
+
+.close-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
