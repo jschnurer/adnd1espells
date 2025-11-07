@@ -53,7 +53,7 @@ function App() {
         <label>
           <b>Class: </b>
           <select value={selectedClass ?? ""} onChange={e => setSelectedClass(e.target.value || null)}>
-            {classList.map(c => (
+            {classList.slice().sort((a, b) => a.localeCompare(b)).map(c => (
               <option key={c} value={c}>{c}</option>
             ))}
           </select>
