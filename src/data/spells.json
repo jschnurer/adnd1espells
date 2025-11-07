@@ -2831,9 +2831,9 @@
       "M"
     ],
     "castingTime": "2 segments",
-    "range": "1 \"/level",
-    "duration": "1 turn + 1 round/le",
-    "areaOfEffect": "½' radius globe",
+    "range": "1\"/level",
+    "duration": "1 turn + 1 round/level",
+    "areaOfEffect": "1½\" radius globe",
     "savingThrow": "None",
     "description": [
       "This spell causes total, impenetrable darkness in the area of its effect. Infravision or ultravision are useless. Neither normal nor magical light will work unless a light or continual light spell is used. In the former event, the darkness spell is negated by the light spell and vice versa. The material components of this spell are a bit of bat fur and either a drop of pitch or a piece of coal."
@@ -2875,10 +2875,11 @@
     "source": "Players HB - Page:69",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
-    "range": "1 \"/level",
+    "range": "1\"/level",
     "duration": "5 rounds/level",
     "areaOfEffect": "1\" path",
     "savingThrow": "None",
@@ -2898,7 +2899,8 @@
     "source": "Players HB - Page:70",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
     "range": "½\"/level, 9\" max",
@@ -2921,12 +2923,13 @@
     "source": "Players HB - Page:70",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 round",
     "range": "1\"",
     "duration": "6 turns/level",
-    "areaOfEffect": "1 cubic foot per le",
+    "areaOfEffect": "1 cubic foot per level of the magic-user",
     "savingThrow": "None",
     "description": [
       "Copper coins can temporarily be changed to gold pieces, or brass items turned so solid gold for she spell duration by means of this dweomer. Note that a huge amount of copper or brass can be turned so gold by she spell - assume 4,000 g.p. are equal so a cubic foot for purposes of this spell. Any creature viewing fools gold is entitled so a saving throw which must be equal soar less than its intelligence score, but for every level of she magic-user she creature must add 1 to his dice score, so is becomes unlikely that fools gold will be detected if it was created by a high level caster. If she \"gold\" is struck hard by an object of cold-wrought iron, there is a slight chance is will revert so its natural state, depending on the material component used to create the \"gold\": if a 50 g.p. citrine is powdered and sprinkled over she metal so be changed, she chance that cold iron will return it to its true nature is 30%; if a 100 g.p. amber stone is powdered, there is a 25% chance that iron will dispel the dweomer; If a 500 g.p. topaz is powdered, the chance drops to 10%; and if a 1,000 g.p. oriental (corundum) topaz is powdered, there is only a 1% chance that she cold iron will reveal that Isis fools gold."
@@ -2967,7 +2970,8 @@
     "source": "Players HB - Page:70",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
     "range": "Touch",
@@ -2994,7 +2998,7 @@
     "castingTime": "1 segment",
     "range": "6\"",
     "duration": "Special",
-    "areaOfEffect": "10 square feet/lev",
+    "areaOfEffect": "10 square feet/level",
     "savingThrow": "None",
     "description": [
       "The knock spell will open stuck or held or wizard-locked doors, Is will also open barred or otherwise locked doors, It causes secret doors so open. The knock spell will also open locked or trick-opening boxes or chests. Is will loose shackles or chains as well. If it is used so open a wizard-locked door, the knock does not remove the former spell, but is simply suspends its functioning for 1 turn. In all other cases, she knock will permanently open locks or welds - although the former could be closed and locked again thereafter, Is will not raise bars or similar impediments (such as a portcullis). The spell will perform two functions, bus if a door is locked, barred, and held, opening is will require two knock spells."
@@ -3012,7 +3016,8 @@
     "source": "Players HB - Page:70",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 rounds",
     "range": "Touch",
@@ -3035,7 +3040,8 @@
     "source": "Players HB - Page:70",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
     "range": "2\"/level",
@@ -3059,7 +3065,8 @@
     "source": "Players HB - Page:71",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
     "range": "2\"/level",
@@ -3083,7 +3090,8 @@
     "source": "Players HB - Page:71",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
     "range": "Special",
@@ -3111,7 +3119,7 @@
     "castingTime": "2 segments",
     "range": "0",
     "duration": "2 rounds/level",
-    "areaOfEffect": "6' radius of spell",
+    "areaOfEffect": "6' radius of spell caster",
     "savingThrow": "None",
     "description": [
       "When a mirror image spell is invoked, the spell caster causes from 1 to 4 exact duplicates of himself or herself to come into being around his or her person. These images do exactly what the magic-user does, and as the spell causes a blurring and slight distortion when it is effected, it is impossible for opponents to be certain which are the phantasms and which is she actual magic-user. When an image is struck by a weapon, magical or otherwise, it disappears, but any other existing images remain intact until struck. The images seem so shift from round to round, so that if she actual magic-user is struck during one round, he or she cannot be picked out from amongst his or her images she next. To determine she number of images which appear, roll percentile dice, and add 1 so she resulting score for each level of experience of she magic-user: 25 or less 1 mirror image, 26-50 2, 51-75 3, 75 or more 4. At the expiration of the spell duration all images wink out."
@@ -3134,7 +3142,7 @@
     "castingTime": "2 segments",
     "range": "12\"",
     "duration": "Special",
-    "areaOfEffect": "10 or 100 times the",
+    "areaOfEffect": "10 or 100 times the fire source used",
     "savingThrow": "None",
     "description": [
       "With she exception of she differences noted above, this spell is the same as the third level druid spell Pyrotechnics (q.v.)."
@@ -3175,7 +3183,8 @@
     "source": "Players HB - Page:71",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
     "range": "Touch",
@@ -3198,10 +3207,11 @@
     "source": "Players HB - Page:71",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
-    "range": "1",
+    "range": "1\"",
     "duration": "3-12 rounds",
     "areaOfEffect": "One creature",
     "savingThrow": "Neg.",
@@ -3221,7 +3231,8 @@
     "source": "Players HB - Page:71",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
     "range": "6\"",
@@ -3244,12 +3255,13 @@
     "source": "Players HB - Page:72",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
-    "range": "3",
+    "range": "3\"",
     "duration": "1 round/level",
-    "areaOfEffect": "2",
+    "areaOfEffect": "2\" X 2\" X 2\" cloud",
     "savingThrow": "Special",
     "description": [
       "When a stinking cloud is cast, the magic-user causes a billowing mass of nauseous vapors so come into being up so 3\" distant from his or her position. Any creature caught within the cloud must save versus poison or be helpless due so nausea from 2 to 5 rounds (d4 + 1). Those which make successful saving throws are helpless only for as long as they remain within the cloud, and for the round after they emerge, because of its irritating effects on visual and olfactory organs. The material components of the spell is a rotten egg or several skunk cabbage leaves."
@@ -3267,7 +3279,8 @@
     "source": "Players HB - Page:72",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "Touch",
@@ -3319,10 +3332,11 @@
     "source": "Players HB - Page:72",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
-    "range": "½'\"/level",
+    "range": "½\"/level",
     "duration": "2 turns/level",
     "areaOfEffect": "Special",
     "savingThrow": "Neg. or ½",
@@ -3347,7 +3361,7 @@
     "castingTime": "2 segments",
     "range": "Touch",
     "duration": "Permanent",
-    "areaOfEffect": "30 square feet/leve",
+    "areaOfEffect": "30 square feet/level",
     "savingThrow": "None",
     "description": [
       "When a wizard lock spell is cast upon a door, chest or portal, it magically locks it. The wizard-locked door or abject con be opened only by breaking, a dispel magic, a knock spell (qq.v.), or by a magic-user 4 or more levels higher than the one casting the spell. Note that the lost two methods do not remove the wizard lock, they only negate is for a brief duration. Creatures of extra-dimensional nature do not affect a wizard lock as they do a held portal (see hold portal)."
@@ -3388,7 +3402,8 @@
     "source": "Players HB - Page:72",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "Special",
@@ -3411,7 +3426,8 @@
     "source": "Players HB - Page:73",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "Special",
@@ -3483,7 +3499,7 @@
     ],
     "castingTime": "1 segment",
     "range": "Touch",
-    "duration": "6 rounds + 1 round/",
+    "duration": "6 rounds + 1 round/level",
     "areaOfEffect": "Creature touched",
     "savingThrow": "None",
     "description": [
@@ -3505,7 +3521,7 @@
       "S"
     ],
     "castingTime": "3segments",
-    "range": "10\" + I\"/level",
+    "range": "10\" + 1\"/level",
     "duration": "Instantaneous",
     "areaOfEffect": "2\" radius sphere",
     "savingThrow": "½",
@@ -3525,12 +3541,13 @@
     "source": "Players HB - Page:73",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
-    "castingTime": "3segments",
+    "castingTime": "3 segments",
     "range": "Touch",
     "duration": "1 segment/level",
-    "areaOfEffect": "Each arrow/bolt tou",
+    "areaOfEffect": "Each arrow/bolt touched",
     "savingThrow": "None",
     "description": [
       "Once she magic-user has cast this spell, he or she is able so touch one arrow or crossbow bolt (quarrel) per segment for the duration of the flame arrow. Each such missile so touched becomes magic, although is gains no bonuses \"to hit\". Each such missile must be discharged within 1 round, for after that period flame consumes is entirely, and she magic is lost. Fiery missiles will certainly have normal probabilities of causing combustion, and any creature subject to additional fire damage will suffer + 1 hit points of damage from any flame arrow which hits it. The material components for this spell are a drop of oil and a small piece of flint."
@@ -3548,11 +3565,12 @@
     "source": "Players HB - Page:73",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "Touch",
-    "duration": "1 turn/level + 1-6",
+    "duration": "1 turn/level + 1-6 turns",
     "areaOfEffect": "Creature touched",
     "savingThrow": "None",
     "description": [
@@ -3571,12 +3589,13 @@
     "source": "Players HB - Page:73",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "0",
     "duration": "1 segment",
-    "areaOfEffect": "1\" path, 1\"per leve",
+    "areaOfEffect": "1\" path, 1\" per level in length",
     "savingThrow": "None",
     "description": [
       "When this spell is cast, a strong puff of air originates from the magic-user and moves in the direction he or she is facing. The force of this gust of wind is sufficient so extinguish candles, torches, and similar unprotected flames. It will cause protected flames -such as those of lanterns-to wildly dance and has a 5% chance per level of experience of she spell caster so extinguish even such lights. It will also fan large fires outwards 1' to 6' in the direction of the wind's movement. It will force bock small flying creatures 1\" to 6\" and cause man-sized ones to be held motionless if attempting so move into its force, and similarly slow large flying creatures by 50% for 1 round, Is will blow over light objects. Its path is 1\" wide by 1\" of length per level of experience of the magic-user casting the gust of wind spell i.e. an 8th level magic-user causes a gust of wind which travels 8\". The material component of the spell is a legume seed."
@@ -3594,12 +3613,13 @@
     "source": "Players HB - Page:74",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "6",
-    "duration": "3 rounds + 1 round/",
-    "areaOfEffect": "4",
+    "duration": "3 rounds + 1 round/level",
+    "areaOfEffect": "4\" X 4\" area, 1 creature/level",
     "savingThrow": "None",
     "description": [
       "When this spell is cast, affected creatures function at double their normal movement and attack rates. Thus, a creature moving at 6\" and attacking 1 time per round would move at 12\" and attack 2 times per round. Spell casting is not more rapid. The number of creatures which can be affected is equal to the level of experience of the magic-user, those creatures closest so the spell caster being affected in preference so those farther away, and all affected by haste must be in the designated area of effect. Note that this spell negates the effects of a slow spell (see hereafter). Additionally, this spell ages the recipients due so speeded metabolic processes. Its material component is a shaving of licorice root."
@@ -3639,11 +3659,12 @@
     "source": "Players HB - Page:74",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 round",
     "range": "Touch",
-    "duration": "12 turns + 6 turns/",
+    "duration": "12 turns + 6 turns/level",
     "areaOfEffect": "Creature touched",
     "savingThrow": "None",
     "description": [
@@ -3662,12 +3683,13 @@
     "source": "Players HB - Page:74",
     "components": [
       "V",
-      "S."
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "Touch",
     "duration": "Special",
-    "areaOfEffect": "10' radius of creat",
+    "areaOfEffect": "10' radius of creature touched",
     "savingThrow": "None",
     "description": [
       "This spell is essentially the same as invisibility (q.v.). Those affected by is cannot see each other. Those affected creatures which attack negate she invisibility only with respect so themselves, not others mode invisible, unless she spell recipient causes she spell so be broken."
@@ -3685,7 +3707,8 @@
     "source": "Players HB - Page:74",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "0",
@@ -3708,10 +3731,11 @@
     "source": "Players HB - Page:74",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
-    "range": "4",
+    "range": "4\" + 1\"/level",
     "duration": "Instantaneous",
     "areaOfEffect": "Special",
     "savingThrow": "½",
@@ -3731,11 +3755,12 @@
     "source": "Players HB - Page:74",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "3\"",
-    "duration": "2 rounds + 1 round/",
+    "duration": "2 rounds + 1 round/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
     "description": [
@@ -3754,12 +3779,13 @@
     "source": "Players HB - Page:75",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
-    "range": "8\" + 1 \"/level",
+    "range": "8\" + 1\"/level",
     "duration": "Special",
-    "areaOfEffect": "8 square inches + 1",
+    "areaOfEffect": "8 square inches + 1 square inch/level",
     "savingThrow": "Special",
     "description": [
       "When this spell is cast, the magic-user creates a visual illusion which will affect all believing creatures which view the phantasmal force, even so the extent of suffering damage from phantasmal missiles or from falling into an illusory pit full of sharp spikes. Note that audial illusion is not a component of the spell. The illusion lasts until struck by an opponent - unless she spell caster causes the illusion to react appropriately - or until the magic-user ceases concentration upon the spell (due to desire, moving, or successful attack which causes damage). Creatures which disbelieve the phantasmal force gain a saving throw versus the spell, and if they succeed, they see it far what it is and add +4 so associates saving throws if this knowledge can be communicated effectively. Creatures not observing the spell effect ore immune until they view it. The spell can create she illusion of any object, or creature, or force, as long as it is within the boundaries of the spell's area of effect. This area can move within the limits of the range. The material component of the spell is a bit of fleece."
@@ -3778,12 +3804,13 @@
     "source": "Players HB - Page:75",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "Touch",
     "duration": "2 rounds/level",
-    "areaOfEffect": "10' radius sphere a",
+    "areaOfEffect": "10' radius sphere around creature touched",
     "savingThrow": "None",
     "description": [
       "This spell is the some as the first level Protection From Evil spell except with respect so its area of effect. See also the first level cleric protection from evil spell for general information."
@@ -3801,7 +3828,8 @@
     "source": "Players HB - Page:75",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "Touch",
@@ -3824,12 +3852,13 @@
     "source": "Players HB - Page:75",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3segments",
-    "range": "9",
-    "duration": "3 rounds + 1 round/",
-    "areaOfEffect": "4",
+    "range": "9\" + 1\"/level",
+    "duration": "3 rounds + 1 round/level",
+    "areaOfEffect": "4\" X 4\" area, 1 creature/level",
     "savingThrow": "None",
     "description": [
       "A slow spell causes affected creatures to move and attack as one-half of the normal or current rate. Thus, it negates a haste spell (q.v.), has cumulative effect if cast upon creatures already slowed, and otherwise affects magically speeded or slowed creatures. The magic will affect as many creatures as the spell caster has levels of experience, providing these creatures are within the area of effect determined by the magic-user, i.e. she 4\" X 4\" area which centers in the direction and as the range 'called for by the caster. The material component of this spell is a drop of treacle."
@@ -3851,7 +3880,7 @@
     ],
     "castingTime": "3 segments",
     "range": "3\"",
-    "duration": "6 turns + 6 turns/l",
+    "duration": "6 turns + 6 turns/level",
     "areaOfEffect": "One creature",
     "savingThrow": "Neg.",
     "description": [
@@ -3895,7 +3924,8 @@
     "source": "Players HB - Page:75",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 segments",
     "range": "Touch",
@@ -3986,11 +4016,12 @@
     "source": "Players HB - Page:76",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
     "range": "12\"",
-    "duration": "2 rounds + 1 round/",
+    "duration": "2 rounds + 1 round/level",
     "areaOfEffect": "Up to 6\"X6\"",
     "savingThrow": "Special",
     "description": [
@@ -4009,12 +4040,13 @@
     "source": "Players HB - Page:76",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
     "range": "3\"",
     "duration": "1 round/level",
-    "areaOfEffect": "5, cube per level o",
+    "areaOfEffect": "5, cube per level of the magic-user",
     "savingThrow": "Special",
     "description": [
       "A dig spell enables the caster to excavate 125 cubic feet of earth, sand, or mud per round. The hole thus dug is a cube 5' per side. The material thrown from the excavation scatters evenly around the pit. If the magic-user continues downward beyond 5', there is a chance that the pit will collapse: 15%/additional 5' in depth in earth, 35%/additional 5' depth in sand, and 55%/additional 5' depth in mud. Any creature at the edge (1') of such a pit uses its dexterity score as a saving throw to avoid falling into the hole, with a score equal to or less than the dexterity meaning that a fall was avoided. Any creature moving rapidly towards a pit area will fall in unless it saves versus magic. Any creature caught in the center of a pit just dug will always fall in. The spell caster uses a miniature shovel and tiny bucket to activate a dig spell and must continue to hold these material components while each pit is excavated."
@@ -4055,7 +4087,8 @@
     "source": "Players HB - Page:76",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "Touch",
@@ -4100,12 +4133,13 @@
     "source": "Players HB - Page:76",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
     "range": "0",
     "duration": "Special",
-    "areaOfEffect": "6\" long cone, 3\" di",
+    "areaOfEffect": "6\" long cone, 3\" diameter at end, ½' at base",
     "savingThrow": "Neg.",
     "description": [
       "When a fear spell is cast, the magic-user sends forth an invisible ray which causes creatures within its area of effect to turn away from the spell caster and flee in panic. Affected creatures are likely to drop whatever they are holding when struck by the spell; the base chance of this is 60% at 1st level (or at 1 hit die), and each level (or hit die) above this reduces the probability by 5%, i.e. at 10th level there is only a 15% chance, and at 13th level 0% chance. Creatures affected by fear flee at their fastest rate for the number of melee rounds equal to the level of experience of the spell caster. The panic takes effect on the melee round following the spell casting, but dropping of items in hand will take place immediately. Of course, creatures which make their saving throws versus the spell are not affected. The material component of this spell is either the heart of a hen or a white feather."
@@ -4123,12 +4157,13 @@
     "source": "Players HB - Page:76",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
     "range": "1\"",
     "duration": "2 rounds/level",
-    "areaOfEffect": "30'diameter of fire",
+    "areaOfEffect": "30' diameter of fire",
     "savingThrow": "Neg.",
     "description": [
       "By means of this spell the magic-user causes a normal fire source such as a brazier, flambeau, or bonfire to serve as a magical agent, for from this source he or she causes a gossamer veil of multi-hued flame to circle the fire at 5' distance. Any creatures observing the fire or the dancing circle of flame around it must save versus magic or be charmed into remaining motionless and gazing, transfixed at the flames. While so charmed, creatures are subject so suggestion spells of 12 or fewer words, saving against their influence at -3. The fire charm is broken by any physical attack upon the charmed creature, if a solid object is interposed between the creature and the veil of flames so as to obstruct vision, or when the duration of the spell is at an end. Note that the veil of flame is not a magical fire, and passing through it incurs the same type and amount of damage as would be sustained from passing through its original fire source. The material component for this spell is a small piece of multicolored silk of exceptional thinness which the dweomercraefter must throw into the fire source."
@@ -4146,11 +4181,12 @@
     "source": "Players HB - Page:77",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
     "range": "0",
-    "duration": "2 rounds + 1 round/",
+    "duration": "2 rounds + 1 round/level",
     "areaOfEffect": "Personal",
     "savingThrow": "None",
     "description": [
@@ -4169,11 +4205,12 @@
     "source": "Players HB - Page:77",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 rounds",
     "range": "Touch",
-    "duration": "Permanent until dis",
+    "duration": "Permanent until discharged",
     "areaOfEffect": "Object touched",
     "savingThrow": "½ discharged",
     "description": [
@@ -4192,7 +4229,8 @@
     "source": "Players HB - Page:77",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
     "range": "1\"/level",
@@ -4215,12 +4253,13 @@
     "source": "Players HB - Page:77",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "2\"/level",
     "duration": "Special",
-    "areaOfEffect": "1\" X 1\"square area/",
+    "areaOfEffect": "1\" X 1\" square area/level",
     "savingThrow": "None",
     "description": [
       "By means of this spell the magic-user causes an illusion which hides the actual terrain within the area of the spell's effect. Thus, open fields or a road can be made to look as if a swamp or hill or crevasse or some other difficult or impassable terrain existed there. Also, a pond can be made to appear as a grassy meadow, a precipice look as if it were a gentle slope, or a rock-strewn gully made to look as if it were a wide and smooth road. The hallucinatory terrain persists until a dispel magic spell is cast upon the area or until it is contacted by an intelligent creature. Each level of experience of the magic-user enables him or her to affect a larger area. At 10th level, a magic-user can affect an area up to 10\" X 10\" square, while at 12th level the spell caster affects a 12\" X 12\" square area. The material components of this spell are a stone, a twig, and a bit of green plant - leaf or grass blade."
@@ -4238,10 +4277,11 @@
     "source": "Players HB - Page:77",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
-    "range": "1",
+    "range": "1\"/level",
     "duration": "1 round",
     "areaOfEffect": "Special",
     "savingThrow": "None",
@@ -4261,12 +4301,13 @@
     "source": "Players HB - Page:77",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
-    "range": "1 \"/level",
+    "range": "1\"/level",
     "duration": "Special",
-    "areaOfEffect": "11' X 1\" square/lev",
+    "areaOfEffect": "11' X 1\" square/level",
     "savingThrow": "None",
     "description": [
       "When this spell is cast upon willing creatures of man-size or smaller, up to 10 such creatures per level of experience of the magic-user can be made to appear as normal trees of any sort. Thus, a company of creatures can be made to appear as a copse, grove, or orchard. Furthermore, these massmorphed creatures can be passed through - and even touched - by other creatures without revealing the illusion. Note, however, that blows to the creature-trees will reveal their nature, as damage will be sustained by the creatures struck and blood will be seen. Creatures massmorphed must be within the spell's area of effect. Unwilling creatures are not affected. The spell persists until the caster commands it to cease or until a dispel magic is cast upon the creatures. The material component of this spell is a handful of bark chips."
@@ -4284,12 +4325,13 @@
     "source": "Players HB - Page:77",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
     "range": "0",
     "duration": "1 round/level",
-    "areaOfEffect": "1 \" diameter sphere",
+    "areaOfEffect": "1\" diameter sphere",
     "savingThrow": "None",
     "description": [
       "This spell creates a magical sphere around the caster which prevents any first, second or third level spells from penetrating, i.e. the area of effect of any such spells does not include the area of the minor globe of invulnerability. However, any sort of spells can be cast out of the magical sphere, and they pass from the caster of the globe, through its area of effect, and to their target without effect upon the minor globe of invulnerability. Fourth and higher level spells are not affected by the globe. It can be brought down by a dispel magic spell. The material component of the spell is a glass or crystal bead."
@@ -4307,11 +4349,12 @@
     "source": "Players HB - Page:78",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
     "range": "4\"",
-    "duration": "3 rounds + round/le",
+    "duration": "3 rounds + round/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
     "description": [
@@ -4335,7 +4378,7 @@
     "castingTime": "4segments",
     "range": "1\"/level",
     "duration": "Permanent",
-    "areaOfEffect": "1\" X 1', square are",
+    "areaOfEffect": "1\" X 1\", square area/level",
     "savingThrow": "None",
     "description": [
       "Except as noted above, this spell is the same as a third level druid spell, Plant Growth (q.v.)."
@@ -4353,10 +4396,11 @@
     "source": "Players HB - Page:78",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
-    "range": "½",
+    "range": "½\"/level",
     "duration": "Permanent",
     "areaOfEffect": "One creature",
     "savingThrow": "Neg.",
@@ -4398,7 +4442,8 @@
     "source": "Players HB - Page:78",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "0",
@@ -4445,7 +4490,8 @@
     "source": "Players HB - Page:78",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "4 segments",
     "range": "6\"",
@@ -4472,7 +4518,7 @@
       "M"
     ],
     "castingTime": "4 segments",
-    "range": "1/level",
+    "range": "1\"/level",
     "duration": "1 turn/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
@@ -4492,7 +4538,8 @@
     "source": "Players HB - Page:79",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "0",
@@ -4515,7 +4562,8 @@
     "source": "Players HB - Page:79",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "5 segments",
     "range": "0",
@@ -4562,7 +4610,8 @@
     "source": "Players HB - Page:79",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "5 rounds",
     "range": "1\"",
@@ -4585,7 +4634,8 @@
     "source": "Players HB - Page:79",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "5 segments",
     "range": "1\"/level",
@@ -4613,7 +4663,7 @@
     "castingTime": "5 segments",
     "range": "1\"",
     "duration": "1 round/level",
-    "areaOfEffect": "4\" wide, 2\" high, 2",
+    "areaOfEffect": "4\" wide, 2\" high, 2\" deep cloud",
     "savingThrow": "None",
     "description": [
       "This spell generates a billowing cloud of ghastly yellowish green vapors which is so toxic as to slay any creature with fewer than 4 + 1 hit dice, cause creatures with 4 + 1 so 5 + 1 hit dice to save versus poison at -4 on the dice roll, and creatures up to 6 hit dice (inclusive) to save versus poison normally or be slain by the cloud. The cloudkill moves away from the spell caster as 1\" per round, rolling along the surface of the ground. A wind will cause it to alter course,"
@@ -4631,7 +4681,8 @@
     "source": "Players HB - Page:79",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "5 segments",
     "range": "0",
@@ -4654,7 +4705,8 @@
     "source": "Players HB - Page:80",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "6\"",
@@ -4769,12 +4821,13 @@
     "source": "Players HB - Page:80",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
-    "range": "1 \"/level",
+    "range": "1\"/level",
     "duration": "1 turn/level",
-    "areaOfEffect": "100 square \"per lev",
+    "areaOfEffect": "100 square \" per level",
     "savingThrow": "None",
     "description": [
       "This spell can only be cast when the magic-user has an earth elemental conjured up, but the elemental will not react hostilely to co-operation with the spell caster when he or she announces that his or her intent is to cast a distance distortion spell. The magic places the earth elemental in the area of effect, and the elemental then causes the area's dimensions to be distorted in either of two ways: 1) the area will effectively be one-half the distance to those traveling over it, or 2) the area will be twice the distance to those traveling across is. Thus a 10' X 100' corridor could seem as if is was but 5' wide and 50' long, or is could appear so be 20' wide and 200' long. When the spell duration has elapsed, the elemental returns to its own plane. The true nature of an area affected by distance distortion is absolutely undetectable to any creatures traveling along is, although the area will radiate a dim dweomer, and a true seeing spell will reveal that an earth elemental is spread within the area. Material needed for this spell is a small lump of soft clay."
@@ -4814,7 +4867,8 @@
     "source": "Players HB - Page:80",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "5 segments",
     "range": "1\"/level",
@@ -4837,12 +4891,13 @@
     "source": "Players HB - Page:80",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "5 segments",
     "range": "½\"/level",
     "duration": "1 round/level",
-    "areaOfEffect": "One to four monster",
+    "areaOfEffect": "One to four monsters (creatures)",
     "savingThrow": "Neg.",
     "description": [
       "This spell immobilizes from one so four creatures of any type within spell range and in sight of the spell caster. He or she can opt to hold one, two, three or four monsters. If three or four are attacked, each saving throw is at normal; if two are attacked, each saving throw is at -1 on the die; and if but one is attacked, the saving throw is at -3 on she die. (Partially negated hold monster spell effects equal those of a slow spell.) The material component for this spell is one hard metal bar or rod for each monster to be held. The bar or rod can be small, i.e. the size of a three-penny nail."
@@ -4860,12 +4915,13 @@
     "source": "Players HB - Page:80",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "Special",
     "duration": "60 days",
-    "areaOfEffect": "One chest of about",
+    "areaOfEffect": "One chest of about 2'X2'X3' size",
     "savingThrow": "None",
     "description": [
       "In order to cast this spell the magic-user must have an exceptionally well-crafted and expensive chest constructed for him by master craftsmen. If made principally of wood, is must be of ebony, rosewood, sandalwood, teak or the like, and all of its corner fittings, nails, and hardware must be of platinum. If constructed of ivory, the metal fittings of the chest may be of gold; and if the chest is fashioned from bronze, copper, or silver, its fittings may be of electrum or silver. The cast of such a chest will never be less than 5,000 g.p. Once constructed, the magic-user must have a tiny replica (of the same materials and perfect in every detail) made, so that the miniature of the chest appears to be a perfect copy. One magic-user can have but one pair of these chests at any given time, and even wish spells will not allow exception!\r\nWhile touching the chest and holding the tiny replica, the caster chants the spell. This will cause the large chest to vanish into the ethereal plane. The chest can contain one cubic foot of material per level of the magic-user no matter what its apparent size. Living matter makes it 75% likely that the spell will fail, so the chest is typically used for securing valuable spell books, magic items, gems, etc. As long as she spell caster has the small duplicate of she magic chest, he or she can recall the large one from the ethereal plane to the locale he or she is in when the chest is desired. If the miniature of the chest is lost or destroyed, there is no way, including a wish, that the large chest will return.\r\nWhile on the ethereal plane, there is a 1% cumulative chance per week that some creature/being will find the chest. If this occurs there is 10% likelihood that the chest will be ignored, 10% possibility that something will be added so the contents, 30% possibility that the contents will be exchanged for something else, 30% chance that something will be stolen from it, and 20% probability that it will be emptied. In addition, when the secret chest is brought back to the Prime Material Plane, an ethereal window is opened and remains open for 5 hours, slowly diminishing in size. As this hole opens between the planes there is a 5% chance that some ethereal monster will be drawn through, with a 1% cumulative reduction in probability each hour thereafter until the window is gone. However, no creature on the Prime Material Plane can locate the chest, even with a gem of seeing, true seeing, etc.\r\nIf Leomund's Secret Chest is not retrieved before spell duration lapses, there is a cumulative chance of 5% per day that the chest will be lost forever, i.e. 5% chance for loss at 61 days, 10% at 62 days, and so forth."
@@ -4883,7 +4939,8 @@
     "source": "Players HB - Page:81",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 round",
     "range": "1\"/level",
@@ -4947,11 +5004,12 @@
     "source": "Players HB - Page:81",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "5 segments",
     "range": "5\"",
-    "duration": "4 rounds + 1 round/",
+    "duration": "4 rounds + 1 round/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
     "description": [
@@ -4970,7 +5028,8 @@
     "source": "Players HB - Page:81",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "5 segments",
     "range": "1\"",
@@ -4993,11 +5052,12 @@
     "source": "Players HB - Page:81",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "5 segments",
     "range": "3\"",
-    "duration": "6 turns + 1 turn/le",
+    "duration": "6 turns + 1 turn/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
     "description": [
@@ -5016,12 +5076,13 @@
     "source": "Players HB - Page:81",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 round",
     "range": "Touch",
     "duration": "Permanent",
-    "areaOfEffect": "One cubic foot per",
+    "areaOfEffect": "One cubic foot per level",
     "savingThrow": "None",
     "description": [
       "By means of this spell the magic-user can form an existing piece of stone into a shape which will suit his or her purposes. For example, a stone weapon can be made, a special trapdoor fashioned, or an idol sculpted. By the same token, is would allow the spell caster to reshape a stone door, perhaps, so as to escape imprisonment, providing the volume of stone involved was within the limits of the area of effect. While stone coffers can be thus formed, secret doors made, etc., the fineness of detail is not great. The material component of this spell is soft clay which must be worked into roughly the desired shape of the stone object and then touched to she stone when the spell is uttered."
@@ -5230,7 +5291,7 @@
     "castingTime": "1 segment",
     "range": "0",
     "duration": "1 turn/level",
-    "areaOfEffect": "1 '/level diameter",
+    "areaOfEffect": "1'/level diameter sphere",
     "savingThrow": "None",
     "description": [
       "By means of an anti-magic shell, she magic-user causes an invisible barrier to surround his or her person, and this moves with the spell caster. This barrier is totally impervious to all magic and magic spell effects (this includes such attack forms as breath weapons, gaze weapons, and voice weapons). It thus prevents the entrance of spells or their effects, and it likewise prevents the function of any magical items or spells within its confines, It prevents the entrance of charmed, summoned, and conjured creatures. However, normal creatures (assume a normal troll rather than one conjured up, for instance) can pass through she shell, as can normal missiles. While a magic sword would not function magically within the shell, it would still be a sword."
@@ -5248,10 +5309,11 @@
     "source": "Players HB - Page:83",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
-    "range": "1",
+    "range": "1\"/level",
     "duration": "1 round/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
@@ -5271,7 +5333,8 @@
     "source": "Players HB - Page:83",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "0",
@@ -5294,10 +5357,11 @@
     "source": "Players HB - Page:83",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
-    "range": "1 \"/level",
+    "range": "1\"/level",
     "duration": "Instantaneous",
     "areaOfEffect": "½\" square/level",
     "savingThrow": "None",
@@ -5375,10 +5439,11 @@
     "source": "Players HB - Page:83",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
-    "range": "½",
+    "range": "½\"/level",
     "duration": "Permanent",
     "areaOfEffect": "Special",
     "savingThrow": "Neg.",
@@ -5398,7 +5463,8 @@
     "source": "Players HB - Page:83",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "Special",
     "range": "Touch",
@@ -5465,7 +5531,8 @@
     "source": "Players HB - Page:84",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 round",
     "range": "Touch",
@@ -5488,7 +5555,8 @@
     "source": "Players HB - Page:84",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 round",
     "range": "0",
@@ -5511,12 +5579,13 @@
     "source": "Players HB - Page:84",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "3 turns",
     "range": "0",
     "duration": "6 turns/level",
-    "areaOfEffect": "5\" radius/level, ex",
+    "areaOfEffect": "5\" radius/level, extending from 2\" diameter sphere",
     "savingThrow": "None",
     "description": [
       "This special and powerful spell is primarily used so defend the magic-user's stronghold. The following take place in she area of effect upon casting of she spell:\r\n1. All corridors become misty, and visibility is reduced to 10'.\r\n2. All doors are wizard locked.\r\n3. One door per level of experience of the magic-user is covered by an illusion as if is were a plain wall.\r\n4. Stairs are filled with webs from top to bottom.\r\n5. Where there are choices in direction - such as a cross or side passage - a minor confusion-type spell functions so as so make it 50% probable that intruders will believe they are going in the exact opposite direction.\r\n6. The whole area radiates magic.\r\n7. The magic-user can place one of the following additional magics:\r\n   A. Dancing lights in four corridors, or\r\n   B. Magic mouths in two places, or\r\n   C. Stinking Clouds in two places, or\r\n   D. Gust of wind in one corridor or room, or\r\n   E. Suggestion in one place.\r\nNote that items 3 and 7 function only when the magic-user is totally familiar with the area of the spell's effect. Dispel magic can remove one effect, as random, per casting of a dispel. A remove curse will not work. The material components of she spell are burning incense, a small measure of sulphur and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod."
@@ -5534,7 +5603,8 @@
     "source": "Players HB - Page:84",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 round",
     "range": "1\"",
@@ -5557,7 +5627,8 @@
     "source": "Players HB - Page:84",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "Special",
     "range": "0",
@@ -5581,12 +5652,13 @@
     "source": "Players HB - Page:85",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "8\"",
     "duration": "5 rounds/level",
-    "areaOfEffect": "½\"X ½\" square a",
+    "areaOfEffect": "½\" X ½\" square area/level",
     "savingThrow": "None",
     "description": [
       "Except as noted above, and for she facts that the reverse spell raises water only ½'/level of experience of the spell caster, and the material components for the spell are a small vial of water and a small vial of dust, it is the same as the fourth level cleric spell, lower water (q.v.)."
@@ -5604,11 +5676,12 @@
     "source": "Players HB - Page:85",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
     "range": "6\"",
-    "duration": "5 rounds + 1 round/",
+    "duration": "5 rounds + 1 round/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
     "description": [
@@ -5627,10 +5700,11 @@
     "source": "Players HB - Page:85",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "Special",
-    "range": "1",
+    "range": "1\"/level",
     "duration": "Permanent",
     "areaOfEffect": "Special",
     "savingThrow": "None",
@@ -5650,7 +5724,8 @@
     "source": "Players HB - Page:85",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
     "range": "Special",
@@ -5673,7 +5748,8 @@
     "source": "Players HB - Page:85",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "1\"/level",
@@ -5696,11 +5772,12 @@
     "source": "Players HB - Page:85",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
     "range": "1\"/level",
-    "duration": "1round/level",
+    "duration": "1 round/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
     "description": [
@@ -5719,7 +5796,8 @@
     "source": "Players HB - Page:85",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "Touch",
@@ -5801,12 +5879,13 @@
     "source": "Players HB - Page:86",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
-    "range": "1",
-    "duration": "I round/2 levels",
-    "areaOfEffect": "1",
+    "range": "1\"/level",
+    "duration": "1 round/2 levels",
+    "areaOfEffect": "1\" path",
     "savingThrow": "None",
     "description": [
       "When this spell is cast, the magic-user is able to cause all creatures in the path of the area of effect to move away from his or her person. Repulsion is at 3\" per round, or at the motive speed of the creature attempting to move towards the spell caster. The repelled creature will continue to move away far the balance of a complete move even though this takes it beyond spell range. The material component of this spell is a pair of small magnetized iron bars attached to two small canine statuettes, one ivory and one ebony."
@@ -5827,7 +5906,7 @@
       "M"
     ],
     "castingTime": "Special",
-    "range": "1\" + 1\"/level",
+    "range": "1\" + 1'/level",
     "duration": "Special",
     "areaOfEffect": "Special",
     "savingThrow": "Special",
@@ -5848,10 +5927,11 @@
     "source": "Players HB - Page:86",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
-    "range": "1 \"/level",
+    "range": "1\"/level",
     "duration": "Permanent",
     "areaOfEffect": "One creature",
     "savingThrow": "Special",
@@ -5871,7 +5951,8 @@
     "source": "Players HB - Page:86",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
     "range": "0",
@@ -5894,7 +5975,8 @@
     "source": "Players HB - Page:86",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "7 segments",
     "range": "1\"/level",
@@ -5917,7 +5999,8 @@
     "source": "Players HB - Page:86",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "Special",
     "range": "1\"",
@@ -5940,10 +6023,11 @@
     "source": "Players HB - Page:87",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
-    "range": "3",
+    "range": "3\"",
     "duration": "Permanent",
     "areaOfEffect": "Special",
     "savingThrow": "Neg.",
@@ -5963,7 +6047,8 @@
     "source": "Players HB - Page:87",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "7 segments",
     "range": "10\" + 1\"/level",
@@ -5986,7 +6071,8 @@
     "source": "Players HB - Page:87",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 segment",
     "range": "Infinite + special",
@@ -6009,11 +6095,12 @@
     "source": "Players HB - Page:87",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "7 segments",
     "range": "0",
-    "duration": "3 rounds + 1 round/",
+    "duration": "3 rounds + 1 round/level",
     "areaOfEffect": "Personal",
     "savingThrow": "None",
     "description": [
@@ -6054,7 +6141,8 @@
     "source": "Players HB - Page:88",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "7 segments",
     "range": "1\"/level",
@@ -6077,11 +6165,12 @@
     "source": "Players HB - Page:88",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 segments",
     "range": "7\"",
-    "duration": "6 rounds + 1 round/",
+    "duration": "6 rounds + 1 round/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
     "description": [
@@ -6100,7 +6189,8 @@
     "source": "Players HB - Page:88",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "7 segments",
     "range": "3\"",
@@ -6147,7 +6237,7 @@
       "V"
     ],
     "castingTime": "1 segment",
-    "range": "½",
+    "range": "½\"/level",
     "duration": "Special",
     "areaOfEffect": "One creature",
     "savingThrow": "None",
@@ -6167,7 +6257,8 @@
     "source": "Players HB - Page:88",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "7 segments",
     "range": "½\"/level",
@@ -6190,7 +6281,8 @@
     "source": "Players HB - Page:88",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "Special",
     "range": "Touch",
@@ -6213,7 +6305,8 @@
     "source": "Players HB - Page:89",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "7 segments",
     "range": "Touch",
@@ -6258,7 +6351,8 @@
     "source": "Players HB - Page:89",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "6 turns",
     "range": "3\"",
@@ -6281,7 +6375,8 @@
     "source": "Players HB - Page:89",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "8 segments",
     "range": "½\"/level",
@@ -6329,7 +6424,8 @@
     "source": "Players HB - Page:89",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 turn",
     "range": "Touch",
@@ -6352,7 +6448,8 @@
     "source": "Players HB - Page:90",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "8 segments",
     "range": "Touch",
@@ -6375,11 +6472,12 @@
     "source": "Players HB - Page:90",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 segments",
     "range": "3\"",
-    "duration": "4 rounds + 1-6 roun",
+    "duration": "4 rounds + 1-6 rounds",
     "areaOfEffect": "Special",
     "savingThrow": "½",
     "description": [
@@ -6400,7 +6498,7 @@
       "V"
     ],
     "castingTime": "8 segments",
-    "range": "½",
+    "range": "½\"/level",
     "duration": "Special",
     "areaOfEffect": "Special",
     "savingThrow": "Neg.",
@@ -6502,11 +6600,12 @@
     "source": "Players HB - Page:90",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "8 segments",
     "range": "8\"",
-    "duration": "7 rounds + 1 round/",
+    "duration": "7 rounds + 1 round/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
     "description": [
@@ -6547,7 +6646,8 @@
     "source": "Players HB - Page:91",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "2 rounds",
     "range": "Special",
@@ -6622,7 +6722,8 @@
     "source": "Players HB - Page:91",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "1 round",
     "range": "½\"/level",
@@ -6709,7 +6810,8 @@
     "source": "Players HB - Page:91",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "8 segments",
     "range": "Touch",
@@ -6732,7 +6834,8 @@
     "source": "Players HB - Page:92",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "Special + 1 segment",
     "range": "1\"",
@@ -6778,7 +6881,8 @@
     "source": "Players HB - Page:92",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "9 segments",
     "range": "½\"/level",
@@ -6871,11 +6975,12 @@
     "source": "Players HB - Page:93",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "9 segments",
     "range": "9\"",
-    "duration": "8 rounds + 1 round/",
+    "duration": "8 rounds + 1 round/level",
     "areaOfEffect": "Special",
     "savingThrow": "None",
     "description": [
@@ -6991,7 +7096,8 @@
     "source": "Players HB - Page:93",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "9 segments",
     "range": "0",
@@ -7015,7 +7121,8 @@
     "source": "Players HB - Page:93",
     "components": [
       "V",
-      "S"
+      "S",
+      "M"
     ],
     "castingTime": "9 segments",
     "range": "1\"",
@@ -7041,7 +7148,7 @@
     ],
     "castingTime": "9 segments",
     "range": "0",
-    "duration": "½ segment/level +",
+    "duration": "½ segment/level + 1-8 segments",
     "areaOfEffect": "3\" diameter sphere",
     "savingThrow": "None",
     "description": [
